@@ -7,3 +7,6 @@
 #### Then after you roll the dice you can add any modifiers to the die and give you your final roll.
 
 ![alt text](https://github.com/IzaakTayler/IzaakTayler/blob/master/DieRoller.png?raw=true "Die Roller Logo")
+
+
+### Documentaion
